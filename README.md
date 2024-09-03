@@ -46,7 +46,8 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![image](https://github.com/user-attachments/assets/784d0afa-d8c6-4d7d-8681-84e5c851ea37)
+![IMG-20240904-WA0003](https://github.com/user-attachments/assets/220ba3db-cfb5-4d95-b1df-64c1679983f1)
+
 
 
  
@@ -64,7 +65,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![image](https://github.com/user-attachments/assets/e947dcda-b023-4668-a955-a5faf0949702)
+ ![IMG-20240904-WA0005](https://github.com/user-attachments/assets/33bb55fe-d50b-4c30-bb7b-24bef3d1284c)
+
 
 
 iv)	Creating the new test cell view
@@ -76,7 +78,8 @@ iv)	Creating the new test cell view
 	View: Schematic
 	Type: Schematic press OK
 •	Follow the step 3(ii) d to make the required connections
-![image](https://github.com/user-attachments/assets/0f1eb390-537e-4915-a9d5-6855883745d4)
+![IMG-20240904-WA0001](https://github.com/user-attachments/assets/f941499c-aa7e-4bcb-a63b-554e386b1edd)
+
 
 
  
@@ -97,12 +100,14 @@ For Transient Analysis Settings and Output
  
  ![image](https://github.com/user-attachments/assets/92d14f32-8ba5-4fed-978a-38c360b8e305)
 
- ![image](https://github.com/user-attachments/assets/b86fd87f-7a66-47f5-bc26-2b5f4cb5679d)
+![358526710-b86fd87f-7a66-47f5-bc26-2b5f4cb5679d](https://github.com/user-attachments/assets/d53a0970-e4d8-4c97-acc0-b85eb983c571)
+
 
  For DC Analysis Settings and Output
 ![image](https://github.com/user-attachments/assets/0ee74107-e03a-4204-b685-83ced611c993)
 
-![image](https://github.com/user-attachments/assets/e6b8b6c7-378f-449e-82a5-72286f238b02)
+![358526845-e6b8b6c7-378f-449e-82a5-72286f238b02](https://github.com/user-attachments/assets/e3cefb71-74d4-4462-a482-3dff90b4c52f)
+
 
  
 
